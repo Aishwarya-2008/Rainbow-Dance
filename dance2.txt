@@ -1,0 +1,4 @@
+turn left
+turn right
+up and down
+sing the rainbow song
